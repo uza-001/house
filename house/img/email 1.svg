@@ -1,0 +1,15 @@
+<svg width="18.000000" height="18.000000" viewBox="0 0 18 18" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<clipPath id="clip1987_23042">
+			<rect id="email 1" width="18.000000" height="18.000000" fill="white" fill-opacity="0"/>
+		</clipPath>
+	</defs>
+	<rect id="email 1" width="18.000000" height="18.000000" fill="#FFFFFF" fill-opacity="0"/>
+	<g clip-path="url(#clip1987_23042)">
+		<path id="Vector" d="M15.8906 2.39062L2.10938 2.39062C0.946259 2.39062 0 3.33691 0 4.5L0 13.5C0 14.6631 0.946259 15.6094 2.10938 15.6094L15.8906 15.6094C17.0537 15.6094 18 14.6631 18 13.5L18 4.5C18 3.33691 17.0537 2.39062 15.8906 2.39062ZM16.5938 13.5C16.5938 13.8877 16.2783 14.2031 15.8906 14.2031L2.10938 14.2031C1.72166 14.2031 1.40625 13.8877 1.40625 13.5L1.40625 4.5C1.40625 4.1123 1.72166 3.79688 2.10938 3.79688L15.8906 3.79688C16.2783 3.79688 16.5938 4.1123 16.5938 4.5L16.5938 13.5Z" fill="#FFFFFF" fill-opacity="1.000000" fill-rule="nonzero"/>
+		<path id="Vector" d="M16.4746 3.26758L9.0002 8.82715L1.52585 3.26758L0.686523 4.396L9.0002 10.5796L17.3139 4.396L16.4746 3.26758Z" fill="#FFFFFF" fill-opacity="1.000000" fill-rule="nonzero"/>
+	</g>
+</svg>
